@@ -10,29 +10,6 @@ This is an Online Library System built using React with Redux for state manageme
 ✅ Add Book: Allows users to add new books (managed with Redux).
 ✅ 404 Page: Handles invalid routes.
 
-📁 Project Structure
-
-OnlineLibrarySystem/
-│── src/
-│   │── components/
-│   │   │── Navbar.jsx
-│   │── data/
-│   │   │── books.jsx
-│   │── pages/
-│   │   │── Home.jsx
-│   │   │── BrowseBooks.jsx
-│   │   │── BookDetails.jsx
-│   │   │── AddBook.jsx
-│   │   │── NotFound.jsx
-│   │── redux/
-│   │   │── store.jsx
-│   │── styles/
-│   │   │── styles.css
-│   │── App.jsx
-│   │── main.jsx
-│── index.html
-│── package.json
-│── README.md
 
 ▶️ How to Run the Application
 
